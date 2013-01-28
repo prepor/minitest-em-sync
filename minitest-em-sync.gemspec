@@ -14,6 +14,7 @@ spec = Gem::Specification.new do |s|
   s.files = %w[
     Gemfile
     Gemfile.lock
+    README.md
     Rakefile
     lib/minitest/em_sync.rb
     minitest-em-sync.gemspec
